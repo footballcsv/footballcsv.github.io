@@ -43,17 +43,16 @@ Leagues include:
 
 
 
-
 ## Much More
 
 See all [football.csv datasets repos »](https://github.com/footballcsv)
 
 
 
-## Tools - Import & Export
+## Import & Export - Tools
 
 Use the sport.db command line tools & scripts
-to read in the football.csv datasets into any SQL database
+to read in the football.csv datasets into any SQL database (SQLite, PostgreSQL, ...)
 and much more.
 See the [sport.db project](https://github.com/sportdb/sport.db) for more.
 
