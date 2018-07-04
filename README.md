@@ -45,7 +45,7 @@ Leagues include:
 
 ## Much More
 
-See all [football.csv datasets repos »](https://github.com/footballcsv)
+See all [football.csv dataset repos »](https://github.com/footballcsv)
 
 
 
