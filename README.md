@@ -1,6 +1,6 @@
 
 
-# football.csv - (Free) Public Domain Open Football Data
+# football.csv - (Free) Open Public Domain Football Data
 
 <!--
    add "tagline" - why? why not?
