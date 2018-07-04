@@ -16,16 +16,16 @@ Values are separated by - surprise, surprise - commas (that is, `,`).
 One line is one record. Example:
 
 ```
-Arsenal,         1-3, 1-1, Aston Villa
-Liverpool,       1-0, 1-0, Stoke
-Norwich,         2-2, 0-0, Everton
-Sunderland,      0-1, 0-0, Fulham
-Swansea,         1-4, 0-2, Man United
-West Brom,       0-1, 0-0, Southampton
-West Ham,        2-0, 1-0, Cardiff
-Chelsea,         2-0, 2-0, Hull
-Crystal Palace,  0-1, 0-0, Tottenham
-Manchester City, 4-0, 2-0, Newcastle
+Arsenal,              1-3, 1-1, Aston Villa
+Liverpool,            1-0, 1-0, Stoke City
+Norwich City,         2-2, 0-0, Everton
+Sunderland,           0-1, 0-0, Fulham
+Swansea City,         1-4, 0-2, Manchester United
+West Bromwich Albion, 0-1, 0-0, Southampton
+West Ham United,      2-0, 1-0, Cardiff City
+Chelsea,              2-0, 2-0, Hull City
+Crystal Palace,       0-1, 0-0, Tottenham Hotspur
+Manchester City,      4-0, 2-0, Newcastle United 
 ...
 ```
 
