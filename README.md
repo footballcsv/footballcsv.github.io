@@ -1,7 +1,9 @@
-_Real Madrid, 3-1, 1-0, Manchester United_
 
 
 # football.csv - (Free) Public Domain Open Football Data
+
+_Real Madrid, 3-1, 1-0, Manchester United_
+
 
 
 What's the Comma-Separated Values (CSV) Format?
