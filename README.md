@@ -9,7 +9,7 @@ _Real Madrid, 3-1, 1-0, Manchester United_
 
 
 
-What's the Comma-Separated Values (CSV) Format?
+What's the comma-separated values (.csv) format?
 
 It's the world's most popular tabular data interchange format in text.
 Values are separated - surprise, surprise - by commas (that is, `,`).
