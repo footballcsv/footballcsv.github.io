@@ -12,7 +12,7 @@ _Real Madrid, 3-1, 1-0, Manchester United_
 What's the Comma-Separated Values (CSV) Format?
 
 It's the world's most popular tabular data interchange format in text.
-Values are separated by - surprise, surprise - commas (that is, `,`).
+Values are separated - surprise, surprise - by commas (that is, `,`).
 One line is one record. Example:
 
 ```
