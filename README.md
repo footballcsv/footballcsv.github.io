@@ -2,7 +2,10 @@
 
 # football.csv - (Free) Public Domain Open Football Data
 
+<!--
+   add "tagline" - why? why not?
 _Real Madrid, 3-1, 1-0, Manchester United_
+-->
 
 
 
