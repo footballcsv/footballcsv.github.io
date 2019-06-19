@@ -34,17 +34,17 @@ Manchester City,      4-0, 2-0, Newcastle United
 
 Leagues include:
 
--	[**England Football**](https://github.com/footballcsv/eng-england)     - Premiership & Divs 1, 2, 3 & Conference - [[Download .zip Archive]](https://github.com/footballcsv/eng-england/archive/master.zip)
--	[**Scotland Football**](https://github.com/footballcsv/sco-scotland)     - Premiership & Divs 1, 2 & 3 - [[Download .zip Archive]](https://github.com/footballcsv/sco-scotland/archive/master.zip)
--	[**Germany (Deutschland) Football**](https://github.com/footballcsv/de-deutschland)      - Bundesligas 1 & 2  - [[Download .zip Archive]](https://github.com/footballcsv/de-deutschland/archive/master.zip)
--	[**Italy Football**](https://github.com/footballcsv/it-italy)       - Serie A & B  - [[Download .zip Archive]](https://github.com/footballcsv/it-italy/archive/master.zip)
--	[**Spain (España) Football**](https://github.com/footballcsv/es-espana)  	   - La Liga (Primera & Segunda)  - [[Download .zip Archive]](https://github.com/footballcsv/es-espana/archive/master.zip)
--	[**France (and Monaco) Football**](https://github.com/footballcsv/fr-france)      - Le Championnat & Division 2  - [[Download .zip Archive]](https://github.com/footballcsv/fr-france/archive/master.zip)
--	[**Netherlands Football**](https://github.com/footballcsv/nl-netherlands) - KPN Eredivisie  - [[Download .zip Archive]](https://github.com/footballcsv/nl-netherlands/archive/master.zip)
--	[**Belgium Football**](https://github.com/footballcsv/be-belgium)     - Pro League  - [[Download .zip Archive]](https://github.com/footballcsv/be-belgium/archive/master.zip)
-- [**Portugal Football**](https://github.com/footballcsv/pt-portugal)    - Liga I  - [[Download .zip Archive]](https://github.com/footballcsv/pt-portugal/archive/master.zip)
-- [**Turkey Football**](https://github.com/footballcsv/tr-turkey)      - Ligi 1  - [[Download .zip Archive]](https://github.com/footballcsv/tr-turkey/archive/master.zip)
-- [**Greece Football**](https://github.com/footballcsv/gr-greece)     - Ethniki Katigoria  - [[Download .zip Archive]](https://github.com/footballcsv/gr-greece/archive/master.zip)
+-	[**England Football**](https://github.com/footballcsv/england)     - Premiership & Divs 1, 2, 3 & Conference - [[Download .zip Archive]](https://github.com/footballcsv/england/archive/master.zip)
+-	[**Scotland Football**](https://github.com/footballcsv/scotland)     - Premiership & Divs 1, 2 & 3 - [[Download .zip Archive]](https://github.com/footballcsv/scotland/archive/master.zip)
+-	[**Germany (Deutschland) Football**](https://github.com/footballcsv/deutschland)      - Bundesligas 1 & 2  - [[Download .zip Archive]](https://github.com/footballcsv/deutschland/archive/master.zip)
+-	[**Italy Football**](https://github.com/footballcsv/italy)       - Serie A & B  - [[Download .zip Archive]](https://github.com/footballcsv/italy/archive/master.zip)
+-	[**Spain (España) Football**](https://github.com/footballcsv/espana)  	   - La Liga (Primera & Segunda)  - [[Download .zip Archive]](https://github.com/footballcsv/espana/archive/master.zip)
+-	[**France (and Monaco) Football**](https://github.com/footballcsv/france)      - Le Championnat & Division 2  - [[Download .zip Archive]](https://github.com/footballcsv/france/archive/master.zip)
+-	[**Netherlands Football**](https://github.com/footballcsv/netherlands) - KPN Eredivisie  - [[Download .zip Archive]](https://github.com/footballcsv/netherlands/archive/master.zip)
+-	[**Belgium Football**](https://github.com/footballcsv/belgium)     - Pro League  - [[Download .zip Archive]](https://github.com/footballcsv/belgium/archive/master.zip)
+- [**Portugal Football**](https://github.com/footballcsv/portugal)    - Liga I  - [[Download .zip Archive]](https://github.com/footballcsv/portugal/archive/master.zip)
+- [**Turkey Football**](https://github.com/footballcsv/turkey)      - Ligi 1  - [[Download .zip Archive]](https://github.com/footballcsv/turkey/archive/master.zip)
+- [**Greece Football**](https://github.com/footballcsv/greece)     - Ethniki Katigoria  - [[Download .zip Archive]](https://github.com/footballcsv/greece/archive/master.zip)
 
 
 
