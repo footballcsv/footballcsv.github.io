@@ -36,8 +36,8 @@ Manchester City,      4-0, 2-0, Newcastle United
 
 ## More Datasets
 
--	[**Belgium (Belgique / België / Belgien) Football**](https://github.com/footballcsv/belgium)     - Pro League  - [[Download .zip Archive]](https://github.com/footballcsv/belgium/archive/master.zip)
 -  [**Austria (Österreich) Football**](https://github.com/footballcsv/austria)    - Bundesliga - [[Download .zip Archive]](https://github.com/footballcsv/austria/archive/master.zip)
+-	[**Belgium (Belgique / België / Belgien) Football**](https://github.com/footballcsv/belgium)     - Pro League  - [[Download .zip Archive]](https://github.com/footballcsv/belgium/archive/master.zip)
 -  [**Mexico (México) Football**](https:://github.com/footballcsv/mexico)  -  Liga MX - [[Download .zip Archive]](https://github.com/footballcsv/mexico/archive/master.zip)
 -  [**Major League Soccer (MLS)**](https://github.com/footballcsv/major-league-soccer) -  Major League Soccer (MLS) for the United States 'n' Canada   - [[Download .zip Archive]](https://github.com/footballcsv/major-league-soccer/archive/master.zip)
 -	[**World Football**](https://github.com/footballcsv/world)  - [[Download .zip Archive]](https://github.com/footballcsv/world/archive/master.zip)   
