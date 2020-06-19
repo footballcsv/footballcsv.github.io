@@ -2,11 +2,6 @@
 
 # football.csv - Open Public Domain Football Data
 
-<!--
-   add "tagline" - why? why not?
-_Real Madrid, 3-1, 1-0, Manchester United_
--->
-
 
 
 What's the comma-separated values (.csv) format?
@@ -38,7 +33,7 @@ Leagues include:
 -	[**England Football**](https://github.com/footballcsv/england)     - Premiership & Divs 1, 2, 3 & Conference - [[Download .zip Archive]](https://github.com/footballcsv/england/archive/master.zip)
 -	[**Spain (España) Football**](https://github.com/footballcsv/espana)  	   - La Liga (Primera & Segunda)  - [[Download .zip Archive]](https://github.com/footballcsv/espana/archive/master.zip)
 -	[**Germany (Deutschland) Football**](https://github.com/footballcsv/deutschland)      - Bundesligas 1 & 2  - [[Download .zip Archive]](https://github.com/footballcsv/deutschland/archive/master.zip)
--	[**Italy Football**](https://github.com/footballcsv/italy)       - Serie A & B  - [[Download .zip Archive]](https://github.com/footballcsv/italy/archive/master.zip)
+-	[**Italy (Italia) Football**](https://github.com/footballcsv/italy)       - Serie A & B  - [[Download .zip Archive]](https://github.com/footballcsv/italy/archive/master.zip)
 -  [**Europe Champions League**](https://github.com/footballcsv/europe-champions-league)     -  incl. European Cup / European Champion Clubs' Cup  - [[Download .zip Archive]](https://github.com/footballcsv/europe-champions-league/archive/master.zip)
 -  
 
@@ -52,9 +47,9 @@ Leagues include:
 
 ## Much More
 
--	[**Belgium Football**](https://github.com/footballcsv/belgium)     - Pro League  - [[Download .zip Archive]](https://github.com/footballcsv/belgium/archive/master.zip)
--  [**Austria Football**](https://github.com/footballcsv/austria)    - Bundesliga - [[Download .zip Archive]](https://github.com/footballcsv/austria/archive/master.zip)
--  [**Mexico Football**](https:://github.com/footballcsv/mexico)  -  Liga MX - [[Download .zip Archive]](https://github.com/footballcsv/mexico/archive/master.zip)
+-	[**Belgium (Belgique / België / Belgien) Football**](https://github.com/footballcsv/belgium)     - Pro League  - [[Download .zip Archive]](https://github.com/footballcsv/belgium/archive/master.zip)
+-  [**Austria (Österreich) Football**](https://github.com/footballcsv/austria)    - Bundesliga - [[Download .zip Archive]](https://github.com/footballcsv/austria/archive/master.zip)
+-  [**Mexico (México) Football**](https:://github.com/footballcsv/mexico)  -  Liga MX - [[Download .zip Archive]](https://github.com/footballcsv/mexico/archive/master.zip)
 -  [**Major League Soccer (MLS)**](https://github.com/footballcsv/major-league-soccer) -  Major League Soccer (MLS) for the United States 'n' Canada   - [[Download .zip Archive]](https://github.com/footballcsv/major-league-soccer/archive/master.zip)
 -	[**World Football**](https://github.com/footballcsv/world)  - [[Download .zip Archive]](https://github.com/footballcsv/world/archive/master.zip)   
 
