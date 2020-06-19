@@ -16,6 +16,7 @@ Values are separated - surprise, surprise - by commas (that is, `,`).
 One line is one record. Example:
 
 ```
+Team1,                FT,  HT,  Team2
 Arsenal,              1-3, 1-1, Aston Villa
 Liverpool,            1-0, 1-0, Stoke City
 Norwich City,         2-2, 0-0, Everton
@@ -30,25 +31,33 @@ Manchester City,      4-0, 2-0, Newcastle United
 ```
 
 
-## Downloads
+## Major Datasets 
 
 Leagues include:
 
 -	[**England Football**](https://github.com/footballcsv/england)     - Premiership & Divs 1, 2, 3 & Conference - [[Download .zip Archive]](https://github.com/footballcsv/england/archive/master.zip)
--	[**Scotland Football**](https://github.com/footballcsv/scotland)     - Premiership & Divs 1, 2 & 3 - [[Download .zip Archive]](https://github.com/footballcsv/scotland/archive/master.zip)
+-	[**Spain (España) Football**](https://github.com/footballcsv/espana)  	   - La Liga (Primera & Segunda)  - [[Download .zip Archive]](https://github.com/footballcsv/espana/archive/master.zip)
 -	[**Germany (Deutschland) Football**](https://github.com/footballcsv/deutschland)      - Bundesligas 1 & 2  - [[Download .zip Archive]](https://github.com/footballcsv/deutschland/archive/master.zip)
 -	[**Italy Football**](https://github.com/footballcsv/italy)       - Serie A & B  - [[Download .zip Archive]](https://github.com/footballcsv/italy/archive/master.zip)
--	[**Spain (España) Football**](https://github.com/footballcsv/espana)  	   - La Liga (Primera & Segunda)  - [[Download .zip Archive]](https://github.com/footballcsv/espana/archive/master.zip)
--	[**France (and Monaco) Football**](https://github.com/footballcsv/france)      - Le Championnat & Division 2  - [[Download .zip Archive]](https://github.com/footballcsv/france/archive/master.zip)
--	[**Netherlands Football**](https://github.com/footballcsv/netherlands) - KPN Eredivisie  - [[Download .zip Archive]](https://github.com/footballcsv/netherlands/archive/master.zip)
--	[**Belgium Football**](https://github.com/footballcsv/belgium)     - Pro League  - [[Download .zip Archive]](https://github.com/footballcsv/belgium/archive/master.zip)
-- [**Portugal Football**](https://github.com/footballcsv/portugal)    - Liga I  - [[Download .zip Archive]](https://github.com/footballcsv/portugal/archive/master.zip)
-- [**Turkey Football**](https://github.com/footballcsv/turkey)      - Ligi 1  - [[Download .zip Archive]](https://github.com/footballcsv/turkey/archive/master.zip)
-- [**Greece Football**](https://github.com/footballcsv/greece)     - Ethniki Katigoria  - [[Download .zip Archive]](https://github.com/footballcsv/greece/archive/master.zip)
+-  [**Europe Champions League**](https://github.com/footballcsv/europe-champions-league)     -  incl. European Cup / European Champion Clubs' Cup  - [[Download .zip Archive]](https://github.com/footballcsv/europe-champions-league/archive/master.zip)
+-  
 
+## Cached Datasets
+
+-  [**Joseph Buchdahl's Football Data**](https://github.com/footballcsv/cache.footballdata)  - [[Download .zip Archive]](https://github.com/footballcsv/cache.footballdata/archive/master.zip)
+-	[**James P. Curley's Soccer Data R Statistics Package**](https://github.com/footballcsv/cache.soccerdata)  - [[Download .zip Archive]](https://github.com/footballcsv/cache.soccerdata/archive/master.zip)
+-  [**David Schoch's Soccerverse**](https://github.com/footballcsv/cache.soccerverse)  - [[Download .zip Archive]](https://github.com/footballcsv/cache.soccerverse/archive/master.zip)
+-	[**Mart Jürisoo's International Football Results from 1872 to 2020**](https://github.com/footballcsv/cache.internationals) - [[Download .zip Archive]](https://github.com/footballcsv/cache.internationals/archive/master.zip)
 
 
 ## Much More
+
+-	[**Belgium Football**](https://github.com/footballcsv/belgium)     - Pro League  - [[Download .zip Archive]](https://github.com/footballcsv/belgium/archive/master.zip)
+-  [**Austria Football**](https://github.com/footballcsv/austria)    - Bundesliga - [[Download .zip Archive]](https://github.com/footballcsv/austria/archive/master.zip)
+-  [**Mexico Football**](https:://github.com/footballcsv/mexico)  -  Liga MX - [[Download .zip Archive]](https://github.com/footballcsv/mexico/archive/master.zip)
+-  [**Major League Soccer (MLS)**](https://github.com/footballcsv/major-league-soccer) -  Major League Soccer (MLS) for the United States 'n' Canada   - [[Download .zip Archive]](https://github.com/footballcsv/major-league-soccer/archive/master.zip)
+-	[**World Football**](https://github.com/footballcsv/world)  - [[Download .zip Archive]](https://github.com/footballcsv/world/archive/master.zip)   
+
 
 See all [football.csv dataset repos »](https://github.com/footballcsv)
 
@@ -59,7 +68,7 @@ See all [football.csv dataset repos »](https://github.com/footballcsv)
 Use the sport.db command line tools & scripts
 to read in the football.csv datasets into any SQL database (SQLite, PostgreSQL, ...)
 and much more.
-See the [sport.db project](https://github.com/sportdb/sport.db) for more.
+See the [sport.db project](http://sportdb.github.io) for more.
 
 
 Add your tools & scripts here!
