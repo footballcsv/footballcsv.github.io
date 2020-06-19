@@ -35,7 +35,6 @@ Leagues include:
 -	[**Germany (Deutschland) Football**](https://github.com/footballcsv/deutschland)      - Bundesligas 1 & 2  - [[Download .zip Archive]](https://github.com/footballcsv/deutschland/archive/master.zip)
 -	[**Italy (Italia) Football**](https://github.com/footballcsv/italy)       - Serie A & B  - [[Download .zip Archive]](https://github.com/footballcsv/italy/archive/master.zip)
 -  [**Europe Champions League**](https://github.com/footballcsv/europe-champions-league)     -  incl. European Cup / European Champion Clubs' Cup  - [[Download .zip Archive]](https://github.com/footballcsv/europe-champions-league/archive/master.zip)
--  
 
 ## Cached Datasets
 
