@@ -28,23 +28,13 @@ Manchester City,      4-0, 2-0, Newcastle United
 
 ## Major Datasets 
 
-Leagues include:
-
 -	[**England Football**](https://github.com/footballcsv/england)     - Premiership & Divs 1, 2, 3 & Conference - [[Download .zip Archive]](https://github.com/footballcsv/england/archive/master.zip)
 -	[**Spain (España) Football**](https://github.com/footballcsv/espana)  	   - La Liga (Primera & Segunda)  - [[Download .zip Archive]](https://github.com/footballcsv/espana/archive/master.zip)
 -	[**Germany (Deutschland) Football**](https://github.com/footballcsv/deutschland)      - Bundesligas 1 & 2  - [[Download .zip Archive]](https://github.com/footballcsv/deutschland/archive/master.zip)
 -	[**Italy (Italia) Football**](https://github.com/footballcsv/italy)       - Serie A & B  - [[Download .zip Archive]](https://github.com/footballcsv/italy/archive/master.zip)
 -  [**Europe Champions League**](https://github.com/footballcsv/europe-champions-league)     -  incl. European Cup / European Champion Clubs' Cup  - [[Download .zip Archive]](https://github.com/footballcsv/europe-champions-league/archive/master.zip)
 
-## Cached Datasets
-
--  [**Joseph Buchdahl's Football Data**](https://github.com/footballcsv/cache.footballdata)  - [[Download .zip Archive]](https://github.com/footballcsv/cache.footballdata/archive/master.zip)
--	[**James P. Curley's Soccer Data R Statistics Package**](https://github.com/footballcsv/cache.soccerdata)  - [[Download .zip Archive]](https://github.com/footballcsv/cache.soccerdata/archive/master.zip)
--  [**David Schoch's Soccerverse**](https://github.com/footballcsv/cache.soccerverse)  - [[Download .zip Archive]](https://github.com/footballcsv/cache.soccerverse/archive/master.zip)
--	[**Mart Jürisoo's International Football Results from 1872 to 2020**](https://github.com/footballcsv/cache.internationals) - [[Download .zip Archive]](https://github.com/footballcsv/cache.internationals/archive/master.zip)
-
-
-## Much More
+## More Datasets
 
 -	[**Belgium (Belgique / België / Belgien) Football**](https://github.com/footballcsv/belgium)     - Pro League  - [[Download .zip Archive]](https://github.com/footballcsv/belgium/archive/master.zip)
 -  [**Austria (Österreich) Football**](https://github.com/footballcsv/austria)    - Bundesliga - [[Download .zip Archive]](https://github.com/footballcsv/austria/archive/master.zip)
@@ -54,6 +44,15 @@ Leagues include:
 
 
 See all [football.csv dataset repos »](https://github.com/footballcsv)
+
+
+
+## Bonus: Cached Datasets
+
+-  [**Joseph Buchdahl's Football Data**](https://github.com/footballcsv/cache.footballdata)  - [[Download .zip Archive]](https://github.com/footballcsv/cache.footballdata/archive/master.zip)
+-	[**James P. Curley's Soccer Data R Statistics Package**](https://github.com/footballcsv/cache.soccerdata)  - [[Download .zip Archive]](https://github.com/footballcsv/cache.soccerdata/archive/master.zip)
+-  [**David Schoch's Soccerverse**](https://github.com/footballcsv/cache.soccerverse)  - [[Download .zip Archive]](https://github.com/footballcsv/cache.soccerverse/archive/master.zip)
+-	[**Mart Jürisoo's International Football Results from 1872 to 2020**](https://github.com/footballcsv/cache.internationals) - [[Download .zip Archive]](https://github.com/footballcsv/cache.internationals/archive/master.zip)
 
 
 
