@@ -31,7 +31,6 @@ Manchester City,      4-0, 2-0, Newcastle United
 -	[**England Football**](https://github.com/footballcsv/england)     - Premiership & Divs 1, 2, 3 & Conference - [[Download .zip Archive]](https://github.com/footballcsv/england/archive/master.zip)
 -	[**Spain (España) Football**](https://github.com/footballcsv/espana)  	   - La Liga (Primera & Segunda)  - [[Download .zip Archive]](https://github.com/footballcsv/espana/archive/master.zip)
 -	[**Germany (Deutschland) Football**](https://github.com/footballcsv/deutschland)      - Bundesligas 1 & 2  - [[Download .zip Archive]](https://github.com/footballcsv/deutschland/archive/master.zip)
--	[**Italy (Italia) Football**](https://github.com/footballcsv/italy)       - Serie A & B  - [[Download .zip Archive]](https://github.com/footballcsv/italy/archive/master.zip)
 -  [**Europe Champions League**](https://github.com/footballcsv/europe-champions-league)     -  incl. European Cup / European Champion Clubs' Cup  - [[Download .zip Archive]](https://github.com/footballcsv/europe-champions-league/archive/master.zip)
 
 ## More Datasets
